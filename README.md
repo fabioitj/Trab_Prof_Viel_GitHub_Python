@@ -4,4 +4,5 @@ Trabalho primeiro periodo curso ciencia da computação professor Viel trabalho 
 DUPLA : Fabio Renato dos Santos Neto && Guilherme Victor Butzke
 
 É um FORK e o autor é o professor, usaremos esse projeto para fazer outro peojeto mais bem elaborado
+
 Link: https://colab.research.google.com/drive/1akqklPW4gzo8iRI22o5vlEy0z6ihqSCX?usp=sharing#scrollTo=gU23T0kqVO6N
